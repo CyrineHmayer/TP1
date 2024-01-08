@@ -1,1 +1,1 @@
-ceci est la doc de git
+ceci est la nouvelle doc de git
